@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mpiLab2", "mpiLab2\mpiLab2.csproj", "{C286E8E9-90E1-4CC3-8A0A-BF0685173BF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C286E8E9-90E1-4CC3-8A0A-BF0685173BF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C286E8E9-90E1-4CC3-8A0A-BF0685173BF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C286E8E9-90E1-4CC3-8A0A-BF0685173BF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C286E8E9-90E1-4CC3-8A0A-BF0685173BF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F53AA9E-314D-4103-AAFB-4F97BE3B54A2}
+	EndGlobalSection
+EndGlobal
